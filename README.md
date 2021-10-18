@@ -17,7 +17,7 @@
 <p align="center">
 <a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-宅男快乐网-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
 <a target="_blank" url="https://github.com/"><img src="https://img.shields.io/badge/GitHub-程序员交友平台-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff"/></a>
-<a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/知乎-大型装逼社区-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff"/></a>
+<!--<a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/知乎-大型装逼社区-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff"/></a>-->
 </p>
 
 
