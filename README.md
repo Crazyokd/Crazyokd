@@ -1,7 +1,14 @@
+<p >
+<img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
+</p>
+
 ### Hi there 👋
 ### I'm Rekord!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ### 😘主页浏览量
+
 ![](https://count.getloli.com/get/@Crazyokd.github.readme)
+
 ### 🧐使用过的语言
 <p align="center">
 	<img src="https://img.shields.io/badge/GO-1.17-00acd7?logo=Go&logoColor=00acd7"/>
