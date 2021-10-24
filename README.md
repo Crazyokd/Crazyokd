@@ -29,9 +29,14 @@
 <!--<a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/知乎-大型装逼社区-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff"/></a>-->
 </p>
 
+### 🥳 个人GitHub统计
+
+|                          GitHub状态                          |                        使用最多的语言                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Crazyokd&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyokd&&hide=tsql) |
 
 - 🔭 I’m currently working on CSUST.
-- 🌱 I’m currently learning Go programming language.
+- 🌱 I’m currently learning design-pattern.
 <!--
 **Crazyokd/Crazyokd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
