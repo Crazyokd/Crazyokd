@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Kotlin-1.14-eb7e21?logo=Kotlin&logoColor=eb7e21"/>
 	<img src="https://img.shields.io/badge/Python-3.8-326c9c?logo=Python&logoColor=326c9c"/>
 	<img src="https://img.shields.io/badge/C/C++-17-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
+	<img src="https://img.shields.io/badge/C%23-6.0-2c006c?logo=c%20Sharp&logoColor=2c006c"/>
 </p>
 
 ### 🔗常逛的网站
