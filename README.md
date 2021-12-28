@@ -38,6 +38,8 @@
 
 - 🔭 I’m currently working on CSUST.
 - 🌱 I’m currently learning and using Dear PyGUI.
+
+<img src="https://raw.githubusercontent.com/Crazyokd/Crazyokd/dist/github-snake.svg">
 <!--
 **Crazyokd/Crazyokd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
