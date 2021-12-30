@@ -9,11 +9,13 @@
 ### Hi there 👋
 ### I'm Rekord!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 😘主页浏览量
 
 ![](https://count.getloli.com/get/@Crazyokd.github.readme)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🧐使用过的语言
 <p align="center">
 	<img src="https://img.shields.io/badge/GO-1.17-00acd7?logo=Go&logoColor=00acd7"/>
@@ -25,6 +27,7 @@
 	<img src="https://img.shields.io/badge/C%23-6.0-2c006c?logo=c%20Sharp&logoColor=2c006c"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🔗常逛的网站
 
 <p align="center">
@@ -33,6 +36,7 @@
 <!--<a target="_blank" url="https://www.zhihu.com/"><img src="https://img.shields.io/badge/知乎-大型装逼社区-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff"/></a>-->
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🥳 个人GitHub统计
 
 |                          GitHub状态                          |                        使用最多的语言                        |
