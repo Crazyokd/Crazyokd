@@ -34,12 +34,12 @@
 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Crazyokd&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyokd&&hide=tsql) |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Crazyokd&show_icons=true&theme=synthwave) | ![Top Langs](https://stats4github.vercel.app/api/top-langs/?username=Crazyokd&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android) |
 
 - 🔭 I’m currently working on CSUST.
 - 🌱 I’m currently learning and using Dear PyGUI.
 
-<img src="https://raw.githubusercontent.com/Crazyokd/Crazyokd/dist/github-snake.svg">
+<img src="https://raw.githubusercontent.com/Crazyokd/Crazyokd/dist/snake.svg">
 <!--
 **Crazyokd/Crazyokd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
