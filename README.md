@@ -47,6 +47,7 @@
 
 - 🔭 I’m currently working on CSUST.
 - 🌱 I’m currently learning OS.
+- 😄 I'm currently watching fate zero.
 <!--
 Here are some ideas to get you started:
  ...
