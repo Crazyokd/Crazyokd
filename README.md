@@ -38,6 +38,7 @@
 
 - 🔭 I’m currently working on CSUST.
 - 🌱 I’m currently learning OS.
+- 😄 I'm currently watching A Certain Magical Index.
 
 <!--
 Here are some ideas to get you started:
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 😄 I'm currently watching fate stay night.
+- 😄 I'm currently watching A Certain Magical Index.
 -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
