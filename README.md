@@ -38,7 +38,6 @@
 
 - 🔭 I’m currently working on CSUST.
 - 🌱 I’m currently learning OS.
-- 😄 I'm currently watching A Certain Magical Index.
 
 <!--
 Here are some ideas to get you started:
