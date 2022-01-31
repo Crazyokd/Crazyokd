@@ -16,7 +16,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧐Used Language
+<!-- ### 🧐Used Language
 <p align="center">
 	<img src="https://img.shields.io/badge/GO-1.17-00acd7?logo=Go&logoColor=00acd7"/>
 	<img src="https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a"/>
@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/C/C++-17-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
 	<img src="https://img.shields.io/badge/C%23-6.0-2c006c?logo=c%20Sharp&logoColor=2c006c"/>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ### 🥳Personal Statistics
 
