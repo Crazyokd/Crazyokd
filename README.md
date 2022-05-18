@@ -32,16 +32,14 @@
 
 |                          Stats                          |                        Languages                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Crazyokd&show_icons=true&theme=synthwave) | ![Top Langs](https://stats4github.vercel.app/api/top-langs/?username=Crazyokd&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android) |
+| ![Rekord's github stats](https://github-readme-stats.vercel.app/api?username=Crazyokd&show_icons=true&theme=cobalt&count_private=true) | ![Top Langs](https://stats4github.vercel.app/api/top-langs/?username=Crazyokd&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android) |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-- 🔭 I’m currently working on CSUST.
-- 🌱 I’m currently learning OS.
 
 <!--
 Here are some ideas to get you started:
  ...
+- 🔭 I’m currently working on CSUST.
+- 🌱 I’m currently learning OS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
